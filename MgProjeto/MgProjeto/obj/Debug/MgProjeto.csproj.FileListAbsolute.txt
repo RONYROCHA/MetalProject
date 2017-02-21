@@ -1,0 +1,6 @@
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\bin\MgProjeto.dll.config
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\bin\MgProjeto.dll
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\bin\MgProjeto.pdb
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\obj\Debug\MgProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\obj\Debug\MgProjeto.dll
+C:\Users\Rony\Desktop\Projeto\MgProjeto\MgProjeto\obj\Debug\MgProjeto.pdb
