@@ -58,8 +58,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\Default.css" />
-    <Content Include="css\default1.css" />
-    <Content Include="LobbyEvento.html" />
+    <Content Include="fotos\1b9dc0a9a6d727b73169903a452ea5cb.gif" />
+    <Content Include="fotos\236.png" />
+    <Content Include="fotos\hqdefault.jpg" />
+    <Content Include="Index.html" />
+    <Content Include="js\js.js" />
     <Content Include="Plugins\Arbor\arbor-graphics.js" />
     <Content Include="Plugins\Arbor\arbor-tween.js" />
     <Content Include="Plugins\Arbor\arbor.js" />
@@ -103,9 +106,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="js\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

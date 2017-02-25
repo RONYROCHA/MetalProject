@@ -1,133 +1,13 @@
-﻿body::-webkit-scrollbar-track {
-    border: 1px solid #eee;
-    background-color: #F5F5F5;
-}
-
-body::-webkit-scrollbar {
-    width: 10px;
-    background-color: #F5F5F5;
-}
-
-body::-webkit-scrollbar-thumb {
-    background-color: #555;
+﻿body{
+   background: #f1f1f1;;
 }
 
 .app-bar{
-    height: 60px !important;
-    width: 100% !important;
-    background: #9C27B0 !important; 
+    background-color: black;
+    text-align:center;
+
 }
 
 a, a:visited {
-    color: #fff;
-}
-
-
-.rightAnswer {
-    color: #60a917;
-}
-
-.wrongAnswer {
-    color: #ce352c;
-}
-
-.app-bar h1 {
-    color: #fff !important;
-    font-size: 270%;
-    position: absolute;
-    top: 50%;
-    left: 48.5%;
-    margin-top: -20px;
-    margin-left: -50px;
-    font-family: Impact;
-}
-
-@media screen and (max-width: 480px) {
-    .app-bar h1 {
-        font-size: 200%;   
-    }
-}
-
-input.ng-invalid .ng-dirty {
-    border: 1px solid red;
-}
-
-input.ng-valid .ng-dirty {
-    border: 1px solid green;
-}
-
-.well {
-    margin-top: 10px;
-    padding-bottom: 10px;
-}
-
-body {
-    color: #666666;
-    font-family: 'RobotoDraft', 'Roboto', sans-serif;
-    font-size: 14px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    margin: 0 auto;
-    overflow:auto;
-}
-
-#overlay {
-    background: rgba(0,0,0,0.4);
-    width: 100%;
-    height: 100%;
-    min-height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1000;
-    display: none;
-    overflow: hidden !important;
-}
-
-#loader {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 58%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -50px;
-}
-
-#usuarioAtual {
-    margin-left:10px;
-}
-
-
-.button.success {
-    width: 98px !important;
-    border: none;
-}
-
-.button.info {
-  width: 98px !important;
-    border: none;
-}
-
-.button.danger {
-    width: 98px !important;
-    border: none;
-}
-
-.button {
-    margin: 4px;
-}
-
-
-table {
-    border-collapse: collapse !important;
-    border-spacing: 0 !important;
-    width: 100% !important;
-    border: 1px solid #ddd !important;
-}
-
-th, td {
-    border: none !important;
-    text-align: left !important;
-    padding: 8px !important;
+     color: #ffffff; 
 }
